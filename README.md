@@ -1,4 +1,6 @@
-Ref: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+Ref: 
+- https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+- https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
 
 # Laporan Proyek Machine Learning - Nuh Theofilus Dwi Putra Hardjowono
 
